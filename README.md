@@ -3,9 +3,9 @@
 This is my personal Vault for participation in the LFX 2025 program.
 
 ## Interested Projects
-- [Project Name 1]
-- [Project Name 2]
-- [Project Name 3]
+- [Cilium - Evaluate SEO, AEO, and AIO for cilium.io](https://github.com/cilium/cilium.io/issues/633)
+- [OpenCost - Develop MCP Server for Agentic AI interaction with OpenCost](https://github.com/opencost/opencost/issues/3239)
+
 *(Add or update your list of projects that interest you.)*
 
 ## Projects I'm Applying To
