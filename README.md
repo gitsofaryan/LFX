@@ -1,6 +1,6 @@
-# Personal README for LFX 2025 Participation
+# [LFX 2025 T3 Participation](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2025/03-Sep-Nov#enhance-kyverno-documentation)
 
-This is my personal README for participation in the LFX 2025 program.
+This is my personal Vault for participation in the LFX 2025 program.
 
 ## Interested Projects
 - [Project Name 1]
